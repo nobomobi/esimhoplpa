@@ -47,4 +47,6 @@ The same MSI is in the repository root (**Git LFS**); clone only if you need the
 
 ## License
 
-Specify your license here (e.g. MIT, Apache-2.0) if applicable.
+This project is licensed under the **GNU Affero General Public License v3.0** (AGPL-3.0), the same family of license used by projects such as [MiniLPA](https://github.com/EsimMoe/MiniLPA). See the [`LICENSE`](LICENSE) file for the full text.
+
+**Summary (not legal advice):** AGPL-3.0 is a strong copyleft license. If you distribute this software (including modified versions) or offer it as a network service, you must generally make corresponding **source code** available to users under the same license. You may charge for distribution, but you cannot strip these freedoms. For exact obligations, read the license text or consult a lawyer.
